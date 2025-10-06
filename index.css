@@ -201,6 +201,8 @@ body {
 }
 
 .profile-card__link {
+  text-align: center;
+  text-decoration: none;
   padding: var(--spacing-150);
   border-radius: var(--br-sm);
   color: var(--clr-profile-card-link);
